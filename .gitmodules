@@ -1,3 +1,5 @@
 [submodule "raft"]
 	path = raft
 	url = https://github.com/redislabs/raft.git
+    branch = b354273476a7b56327e885be4f8d09571c068cbd
+
