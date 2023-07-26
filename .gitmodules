@@ -1,4 +1,4 @@
 [submodule "raft"]
 	path = raft
 	url = https://github.com/redislabs/raft.git
-	branch = masterd
+	branch = anotherbranch
